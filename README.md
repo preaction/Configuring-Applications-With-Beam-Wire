@@ -1,5 +1,5 @@
 
-# TALK NAME
+# Configuring Applications With Beam::Wire
 
 This presentation covers configuring large applications with [the
 Beam::Wire configuration library](http://metacpan.org/pod/Beam::Wire).
