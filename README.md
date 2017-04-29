@@ -4,8 +4,8 @@
 This presentation covers configuring large applications with [the
 Beam::Wire configuration library](http://metacpan.org/pod/Beam::Wire).
 
-* [View the talk](http://preaction.github.io/Configuring-Applications-With-Beam/)
-* [Read the notes](http://github.com/preaction/Configuring-Applications-With-Beam/blob/master/NOTES.md)
+* [View the talk](http://preaction.github.io/Configuring-Applications-With-Beam-Wire/)
+* [Read the notes](http://github.com/preaction/Configuring-Applications-With-Beam-Wire/blob/master/NOTES.md)
 
 ## Abstract
 
